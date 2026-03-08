@@ -19,3 +19,4 @@ document.getElementById("taskList").appendChild(li);
 
 input.value="";
 }
+// Task adding logic completed
